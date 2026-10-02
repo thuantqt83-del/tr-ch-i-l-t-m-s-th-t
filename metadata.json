@@ -1,0 +1,8 @@
+{
+  "name": "Remix Lật Mở Sự Thật - Nhận Diện Hiểm Họa",
+  "description": "Trò chơi giáo dục nhận diện hiểm họa ma túy trá hình với âm thanh sống động, huy hiệu chiến thắng và hiệu ứng chúc mừng kỷ lục cao.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
